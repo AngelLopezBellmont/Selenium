@@ -1,0 +1,15 @@
+3.2
+
+We found that your app and/or its metadata does not appear to include final content, which is not in compliance with the App Store Review Guidelines.
+
+
+It would be appropriate to revise your Application Description to ensure it describes your app and its usage, and provides specific details about its functionality.If your iTunes Connect Application State is Rejected, a new binary will be required. Make the desired metadata changes when you upload the new binary.
+
+If your iTunes Connect Application State is Metadata Rejected, we do NOT require a new binary. In iTunes Connect > Manage Your Applications, select your app and click View Details.
+
+- Click Edit in the Metadata section
+- Revise the desired metadata values
+- Click "Save" at the bottom of the screen
+- Once you click Save, you will see the "Submit New Metadata" button in the top right. Click "Submit New Metadata"
+
+NOTE: Please be sure to make any metadata changes to all App Localizations by clicking the Edit button next to each localization.
